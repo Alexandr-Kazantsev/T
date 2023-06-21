@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="18105" appversion="6.1.14">
+  <input height="4862" levelbias="0.400" levelingpitch="0" width="4862" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelingroll="0">
+    <level height="4862" width="4862" preload="0" predecode="0"/>
+    <level height="2431" width="2431" preload="0" predecode="0"/>
+    <level height="1215" width="1215" preload="0" predecode="0"/>
+    <level height="607" width="607" preload="0" predecode="0"/>
+    <level height="303" width="303" preload="1" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="72.91" tilt="-11.92" projection="4" pan="-84.16"/>
+    <flyin fov="74.91" tilt="-11.92" projection="4" pan="-85.16"/>
+    <min tilt="-90" fovpixel="2" pan="0"/>
+    <max fovstereographic="270" fov="120" tilt="90" scaletofit="1" pan="360" fovfisheye="360"/>
+  </view>
+  <userdata nodeid="node1" description="Улица Льва Шатрова 5; корпус 2" latitude="" longitude="" datetime="20.04.2022" comment="" author="Александр Казанцев" customnodeid="" heading="0" copyright="Александр Казанцев" title="МАОУ &quot;Лицей №10&quot; г. Перми" source="Александр Казанцев" tags="панорама" info=""/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label height="20" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" border="1" enabled="1" textalpha="1" textcolor="0x000000" borderradius="1" background="1" wordwrap="1"/>
+    <polystyle backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+    <hotspot description="" skinid="ht_url" id="Point01" target="_blank" tilt="-20.74" title="Официальный сайт" pan="-111.12" url="http://www.hselyceum.perm.ru/?subj=svedeniya/rukovodstvo"/>
+    <hotspot description="" skinid="ht_url" id="Point02" target="_blank" tilt="-16.48" title="Офицальная группа в ВК" pan="-55.28" url="https://vk.com/public174733676"/>
+    <hotspot description="" skinid="ht_image" id="Point03" target="_blank" tilt="-30.48" title="Фотографии" pan="-46.71" url="images/Охота в разгаре.jpg"/>
+  </hotspots>
+  <media>
+    <lensflare alpha="100.000" id="Lensflare01" tilt="55.730" type="3" color="0xffffff" pan="-0.380" blinding="30.000"/>
+  </media>
+  <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomin="0" enabled="1" type="crossdissolve" zoomspeed="2" zoomout="0" zoomafteroutfov="20" softedge="0" zoomafterinfov="90"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control lockedmouse="0" contextprojections="0" simulatemass="1" lockedkeyboardzoom="0" hideabout="0" rubberband="0" lockedkeyboard="0" speedwheel="1" invertwheel="1" contextvr="0" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" invertcontrol="1"/>
+</panorama>
